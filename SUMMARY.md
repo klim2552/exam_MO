@@ -1,4 +1,4 @@
 # Table of contents
 
-* [Initial page](README.md)
+* [Вопросы на экзамен](README.md)
 
